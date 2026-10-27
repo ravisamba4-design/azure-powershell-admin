@@ -1,3 +1,0 @@
-"Type","Name","ResourceGroup","Detail"
-"Disk","disk-pslab-orphan","RG-PSLAB","4 GB, Standard_LRS"
-"NIC","vm-pslab-01","rg-pslab","Not attached to a VM"
